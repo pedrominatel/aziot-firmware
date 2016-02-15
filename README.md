@@ -1,0 +1,2 @@
+# eziot-firmware
+aziot firmware
