@@ -1,3 +1,3 @@
-# eziot Firmware for ESP8266
+# EzIoT Firmware for ESP8266
 
 Under development
