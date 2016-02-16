@@ -1,2 +1,3 @@
-# eziot-firmware
-aziot firmware
+# eziot Firmware for ESP8266
+
+Under development
